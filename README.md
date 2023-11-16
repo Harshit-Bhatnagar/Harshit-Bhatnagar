@@ -1,17 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harshit Bhatnagar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-bhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-bhatnagar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshitb29" target="blank"><img src="https://img.shields.io/twitter/follow/harshitb29?logo=twitter&style=for-the-badge" alt="harshitb29" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **React, Angular, NodeJs**
+- 💬 Ask me about **React, Angular**
 
-- 📫 How to reach me: **harshitbhatnagar2003@gmail.com**
+- 📫 How to reach me **harshitbhatnagar2003@gmail.com**
 
 - ⚡ Fun fact **I am a New bie**
 
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-bhatnagar&show_icons=true&locale=en" alt="harshit-bhatnagar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-bhatnagar&" alt="harshit-bhatnagar" /></p>
+
