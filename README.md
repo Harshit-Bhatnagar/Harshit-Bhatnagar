@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-bhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-bhatnagar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshitb29" target="blank"><img src="https://img.shields.io/twitter/follow/harshitb29?logo=twitter&style=for-the-badge" alt="harshitb29" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Harrshiitt" target="blank"><img src="https://img.shields.io/twitter/follow/Harrshiitt?logo=twitter&style=for-the-badge" alt="Harrshiitt" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshitb29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitb29" height="30" width="40" /></a>
+<a href="https://twitter.com/Harrshiitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harrshiitt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-bhatnagar" height="30" width="40" /></a>
 <a href="https://instagram.com/harshit__bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit__bhatnagar" height="30" width="40" /></a>
 </p>
