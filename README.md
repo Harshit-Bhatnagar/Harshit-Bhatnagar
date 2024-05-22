@@ -1,4 +1,4 @@
-[![MasterHead](![image](![196879565-4d03f914-da29-4629-98ea-219d63a43940](https://github.com/Harshit-Bhatnagar/Harshit-Bhatnagar/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
+(![196879565-4d03f914-da29-4629-98ea-219d63a43940](https://github.com/Harshit-Bhatnagar/Harshit-Bhatnagar/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
 <h1 align="center">Hi 👋, I'm Harshit Bhatnagar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
